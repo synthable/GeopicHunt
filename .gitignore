@@ -30,3 +30,6 @@ proguard/
 *.iml
 .idea
 .idea/workspace.xml
+
+#Google Services
+google-services.json
